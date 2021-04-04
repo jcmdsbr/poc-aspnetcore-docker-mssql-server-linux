@@ -1,4 +1,4 @@
-# Proof of Concept from Azure Service Bus in .Net Core :sunglasses:
+# Proof of Concept from Docker/Docker Compose in .Net Core :sunglasses:
 
 - This project shows how to implementation docker/docker-compose files using .net core app and mssql server 
 
